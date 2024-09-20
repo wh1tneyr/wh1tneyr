@@ -12,9 +12,6 @@
 
 👯 Disfruto mucho la construcción de modelos de aprendizaje supervisado.
  
-📫 Cómo contactarme:
-
--  [LinkedIn](https://www.linkedin.com/in/whitney-rios-p/)
     
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
@@ -33,5 +30,11 @@
 ![](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
+## 📫 Contacto:
+<!--
+
+-->
+
+-  [LinkedIn](https://www.linkedin.com/in/whitney-rios-p/)
 
 
