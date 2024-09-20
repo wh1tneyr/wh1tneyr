@@ -24,7 +24,7 @@
 
 -->
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Scikit-Learn-orange?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Scikit-Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 
