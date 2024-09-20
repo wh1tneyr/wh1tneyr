@@ -23,4 +23,9 @@
 <!--
 
 -->
-![](https://img.shields.io/badge/Python-blue)
+# ![](https://img.shields.io/badge/Python-blue)
+
+
+
+Machine Learning Scikit-Learn, TensorFlow, Keras Lenguaje de programacio ́n Python (Pandas, NumPy, NLTK)
+Visualizacio ́n de datos Seaborn, Matplotlib, Plotly, Tableau Manejo de datos CSV, JSON, Excel, TSV, Google Drive
