@@ -1,4 +1,4 @@
-## Hi there 👋 Mi nombre es Whitney Rios
+## Hi there 👋 Soy Whitney Rios
 
 <!--
 **wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,6 @@
 
 👯 Disfruto mucho la construcción de modelos de aprendizaje supervisado.
  
-    
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
