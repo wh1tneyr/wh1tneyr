@@ -18,4 +18,4 @@
     
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
-![Android](https://img.shields.io/badge/any_text-you_like-blue)<\br>
+[Android](https://img.shields.io/badge/any_text-you_like-blue)
