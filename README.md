@@ -9,6 +9,6 @@
 - 👯 Quiero colaborar en: proyectos relacionados con análisis de datos, machine learning, o NLP.
 - 🤔 Busco ayuda con: perfeccionar mis habilidades en TensorFlow y Keras.
 - 💬 Pregúntame sobre: ciencia de datos, visualización de datos o cómo hacer modelos predictivos con Python.
-- 📫 Cómo contactarme: A través de LinkedIn o GitHub.
+- 📫 Cómo contactarme: A través de LinkedIn >>> (https://www.linkedin.com/in/whitney-rios-p/)
 - 😄 Pronombres: Ella.
 - ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
