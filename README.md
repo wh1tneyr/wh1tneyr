@@ -17,3 +17,6 @@
 -  [LinkedIn](https://www.linkedin.com/in/whitney-rios-p/)
     
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
+
+
+{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "orange" }
