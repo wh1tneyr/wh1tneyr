@@ -5,8 +5,11 @@
 
 -->
 ✨ Soy Data Scientist ✨
+
 🔭 Actualmente estoy enfocada en la ciencia de datos que incluyen análisis predictivo, machine learning y NLP.
+
 🌱 Estoy aprendiendo más sobre: deep learning y técnicas avanzadas de modelado.
+
 👯 Disfruto mucho la construcción de modelos de aprendizaje supervisado.
  
 📫 Cómo contactarme:
