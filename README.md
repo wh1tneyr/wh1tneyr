@@ -35,7 +35,7 @@
 
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deep-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com)
