@@ -1,6 +1,4 @@
 ## Hola 👋 soy Whitney Rios
-![](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=title)
-
 
 
 <!--
