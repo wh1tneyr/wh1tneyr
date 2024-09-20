@@ -9,6 +9,17 @@
 
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
+👩‍💻 Científica de Datos Junior con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. Me especializo en convertir datos en soluciones estratégicas, aplicando técnicas avanzadas de aprendizaje automático y visualización de datos.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge&logoColor=white)
+
+
+
 ## Habilidades:
 <!--
 
