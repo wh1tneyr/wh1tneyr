@@ -4,16 +4,10 @@
 **wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-✨ Soy Data Scientist ✨
 
-🔭 Actualmente estoy enfocada en la ciencia de datos que incluye análisis predictivo, machine learning y NLP.
+👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. Me especializo en convertir datos en soluciones estratégicas, aplicando técnicas avanzadas de aprendizaje automático y visualización de datos. He trabajado en proyectos de clasificación de usuarios y predicción de tendencias, utilizando Python, Scikit-Learn, TensorFlow, entre otros. También tengo un sólido manejo en limpieza, análisis y presentación de datos con bibliotecas como Pandas, Seaborn y Matplotlib.
 
-🌱 Estoy aprendiendo más sobre: deep learning y técnicas avanzadas de modelado.
-
-👯 Disfruto mucho la construcción de modelos de aprendizaje supervisado.
- 
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
-
 
 ## Habilidades:
 <!--
