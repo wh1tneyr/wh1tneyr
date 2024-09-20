@@ -1,4 +1,6 @@
-![Hello](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=for-the-badge&logo=github&logoColor=white)
+## Hola 👋 soy Whitney Rios
+![](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=flat&logo=python&logoColor=white)
+
 
 
 <!--
