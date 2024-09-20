@@ -1,5 +1,5 @@
 ## Hola 👋 soy Whitney Rios
-![](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=title)
 
 
 
