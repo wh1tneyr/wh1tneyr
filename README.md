@@ -1,12 +1,13 @@
-# Hola 👋 soy Whitney Rios
+# ¡ Hola, soy Whitney ! 👋
 
 
 <!--
 **wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+## ✨ Sobre mí:
 
-### 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
+👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
 Me especializo en convertir datos en soluciones estratégicas, aplicando técnicas avanzadas de aprendizaje automático y visualización de datos.
 He trabajado en proyectos que van desde la clasificación de usuarios hasta la predicción de tendencias, utilizando Python, Scikit-Learn, TensorFlow, entre otros. 
 También tengo un sólido manejo en limpieza, análisis y presentación de datos con bibliotecas como Pandas, Seaborn y Matplotlib.
@@ -14,7 +15,7 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
-## Habilidades:
+## 🛠️ Lenguajes y herramientas:
 <!--
 
 -->
