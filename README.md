@@ -25,10 +25,13 @@
 -->
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Scikit-Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-green?style=for-the-badge&logo=seaborn&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-brown?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Tableau-purple?style=for-the-badge&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/SQL-pink?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/Keras-camel?style=for-the-badge&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
 
-
-Machine Learning Scikit-Learn, TensorFlow, Keras Lenguaje de programacio ́n Python (Pandas, NumPy, NLTK)
-Visualizacio ́n de datos Seaborn, Matplotlib, Plotly, Tableau Manejo de datos CSV, JSON, Excel, TSV, Google Drive
