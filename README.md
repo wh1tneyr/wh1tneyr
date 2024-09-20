@@ -6,7 +6,7 @@
 -->
 ✨ Soy Data Scientist ✨
 
-🔭 Actualmente estoy enfocada en la ciencia de datos que incluyen análisis predictivo, machine learning y NLP.
+🔭 Actualmente estoy enfocada en la ciencia de datos que incluye análisis predictivo, machine learning y NLP.
 
 🌱 Estoy aprendiendo más sobre: deep learning y técnicas avanzadas de modelado.
 
