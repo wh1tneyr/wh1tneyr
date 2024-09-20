@@ -19,7 +19,7 @@
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
-## Habilidades:
+# Habilidades:
 <!--
 
 -->
