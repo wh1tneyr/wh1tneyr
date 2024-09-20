@@ -18,4 +18,7 @@
     
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
-![](https://img.shields.io/badge/prueba-blue)
+
+## Habilidades:
+
+![](https://img.shields.io/badge/Python-blue)
