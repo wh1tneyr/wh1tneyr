@@ -1,4 +1,4 @@
-# ¡ Hola, soy Whitney ! 👋
+# ¡ Hola soy Whitney ! 👋
 
 
 <!--
