@@ -1,4 +1,5 @@
-## Hola 👋 Soy Whitney Rios
+![Hello](https://img.shields.io/badge/Hola%20👋%20Soy%20Whitney%20Rios-blue?style=for-the-badge&logo=github&logoColor=white)
+
 
 <!--
 **wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
