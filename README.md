@@ -25,6 +25,9 @@
 -->
 ![](https://img.shields.io/badge/Python-blue)
 
+![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 
 Machine Learning Scikit-Learn, TensorFlow, Keras Lenguaje de programacio ́n Python (Pandas, NumPy, NLTK)
