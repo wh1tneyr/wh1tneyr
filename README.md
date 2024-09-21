@@ -13,7 +13,12 @@
 
 -->
 
+
+
 ### ✨ Sobre mí:
+
+
+
 
 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
 Me especializo en convertir datos en soluciones estratégicas, aplicando técnicas avanzadas de aprendizaje automático y visualización de datos.
@@ -25,10 +30,12 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 
 
 
+
 ### 🛠️ Lenguajes y herramientas:
 <!--
 
 -->
+
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
