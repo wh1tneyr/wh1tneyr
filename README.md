@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/wh1tneyr/wh1tneyr/blob/main/EF6E0550-9C28-45DD-B579-DCED47445482.JPEG" width="800"/>
+  <img decoding="async" src="https://github.com/wh1tneyr/wh1tneyr/blob/main/BANNER_GATO.JPEG" width="800"/>
 </div>
 
 
