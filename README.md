@@ -56,6 +56,11 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-yellow?style=for-the-badge&logo=excel&logoColor=white)
 
 
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+
+
 ---
 
 ### &#x1F525; Mis estadísticas :
