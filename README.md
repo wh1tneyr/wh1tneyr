@@ -18,10 +18,6 @@
 
 
 
-<!--
-**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 
 ---
  <div id="header" align="left">
