@@ -23,9 +23,11 @@
 
 -->
 
+---
+ <div id="header" align="left">
 
+### :woman_technologist: Sobre mí :
 
-### ✨ Sobre mí:
 <!--
 -->
 
