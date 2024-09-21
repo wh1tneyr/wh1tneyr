@@ -35,11 +35,9 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
+---
 
-# 🛠️ Lenguajes y herramientas:
-<!--
--->
-
+### :hammer_and_wrench: Lenguajes y herramientas :
 
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
