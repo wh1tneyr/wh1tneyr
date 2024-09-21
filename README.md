@@ -1,7 +1,7 @@
 ![EF6E0550-9C28-45DD-B579-DCED47445482](https://github.com/user-attachments/assets/365ca0c8-81e8-42c2-b2fa-17be9ac88509)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com) 
+Encuéntrame en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com) 
 
 
 
@@ -17,10 +17,6 @@
 
 ### ✨ Sobre mí:
 
-<!--
-**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 
 
 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
@@ -34,20 +30,9 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 
 
 
-<!--
-**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-
 ### 🛠️ Lenguajes y herramientas:
-
 <!--
-**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-
-
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
