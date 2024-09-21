@@ -16,7 +16,8 @@ Encuéntrame en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style
 
 
 ### ✨ Sobre mí:
-
+<!--
+-->
 
 
 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
@@ -33,9 +34,11 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 
 
 
-## 🛠️ Lenguajes y herramientas:
+# 🛠️ Lenguajes y herramientas:
 <!--
 -->
+
+
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
