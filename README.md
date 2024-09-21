@@ -1,9 +1,7 @@
+
 <div id="header" align="center">
-  <img decoding="async" src="![EF6E0550-9C28-45DD-B579-DCED47445482](https://github.com/user-attachments/assets/13a8bddf-2cec-41e1-91ea-3e07a0bac7e5)
-" width="800"/>
+  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
 </div>
-
-
 
 
 Encuéntrame en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
