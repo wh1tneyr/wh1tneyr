@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com) 
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wh1tneyr&color=00cf00" alt=""/>
 
 # ¡ Hola soy Whitney ! 👋
 
