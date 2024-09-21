@@ -1,5 +1,14 @@
 ![EF6E0550-9C28-45DD-B579-DCED47445482](https://github.com/user-attachments/assets/365ca0c8-81e8-42c2-b2fa-17be9ac88509)
 
+
+<div id="header" align="center">
+  <img decoding="async" src="![EF6E0550-9C28-45DD-B579-DCED47445482](https://github.com/user-attachments/assets/13a8bddf-2cec-41e1-91ea-3e07a0bac7e5)
+" width="800"/>
+</div>
+
+
+
+
 Encuéntrame en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-150458?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com) 
 
