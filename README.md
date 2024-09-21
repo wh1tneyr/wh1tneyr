@@ -17,7 +17,10 @@
 
 ### ✨ Sobre mí:
 
+<!--
+**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
 
 
 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
@@ -25,16 +28,26 @@ Me especializo en convertir datos en soluciones estratégicas, aplicando técnic
 He trabajado en proyectos que van desde la clasificación de usuarios hasta la predicción de tendencias, utilizando Python, Scikit-Learn, TensorFlow, entre otros. 
 También tengo un sólido manejo en limpieza, análisis y presentación de datos con bibliotecas como Pandas, Seaborn y Matplotlib.
 
+
+
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
 
+<!--
+**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+-->
 
 
 ### 🛠️ Lenguajes y herramientas:
+
 <!--
+**wh1tneyr/wh1tneyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
