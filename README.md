@@ -39,8 +39,8 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Whitney-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
-[![Email](https://img.shields.io/badge/Whitney-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com)
+* :mailbox: ¿Quieres contactar conmigo? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com)
 
 
 
