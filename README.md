@@ -18,14 +18,11 @@
 
 
 
-
 ---
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
 
-<!--
--->
 
 
 👩‍💻 Científica de Datos con experiencia en análisis de datos, machine learning y desarrollo de modelos predictivos. 
