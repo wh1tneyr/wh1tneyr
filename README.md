@@ -39,6 +39,11 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ⚡ Dato curioso: ¡Me encanta tomar fotografías que sirvan como fondos de pantalla inspiradores!
 
 
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Whitney-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
+
+
+
+
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
@@ -56,8 +61,6 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-yellow?style=for-the-badge&logo=excel&logoColor=white)
 
 
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 
 
