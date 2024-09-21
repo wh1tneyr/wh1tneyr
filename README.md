@@ -40,7 +40,7 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Whitney-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whitney-rios-p/)
-
+[![Email](https://img.shields.io/badge/Whitney-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rioswhit@gmail.com)
 
 
 
