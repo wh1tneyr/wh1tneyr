@@ -4,8 +4,6 @@
 </div>
 
 
-------
-
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wh1tneyr.wh1tneyr&color=00cf00" alt=""/>
 
