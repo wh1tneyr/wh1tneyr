@@ -52,3 +52,5 @@ También tengo un sólido manejo en limpieza, análisis y presentación de datos
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-yellow?style=for-the-badge&logo=excel&logoColor=white)
 
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wh1tneyr&theme=dark&background=000000)](https://git.io/streak-stats)
